@@ -1,4 +1,4 @@
-# quiz_app
+# Quiz App ❤️
 
 A simple and elegant quiz app built with Flutter. It features a polished start screen, interactive question screens, and a personalized results screen.
 
