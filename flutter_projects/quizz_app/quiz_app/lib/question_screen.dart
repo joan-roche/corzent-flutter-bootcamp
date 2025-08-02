@@ -77,7 +77,7 @@ class _QuestionsScreenState extends State<QuestionsScreen> {
               ),
             ),
 
-            // Question container with enhanced styling
+            // Question container 
             Container(
               padding: const EdgeInsets.all(24),
               margin: const EdgeInsets.only(bottom: 40),
@@ -110,7 +110,7 @@ class _QuestionsScreenState extends State<QuestionsScreen> {
               ),
             ),
 
-            // Answer buttons with better spacing
+            // Answer buttons 
             ...currentQuestion.shuffledAnswers.asMap().entries.map((entry) {
               final index = entry.key;
               final answer = entry.value;
